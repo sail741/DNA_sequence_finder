@@ -30,7 +30,7 @@ The pattern we are looking for in the DNA file. Can be anything but only with G,
 
 For simple use, you can just run :
 
-python dna_pattern_finder.py "filename_dna_sequence"
+python dna_pattern_finder.py filename_dna_sequence
 
 __author__ = "Léo Mullot"
 """
