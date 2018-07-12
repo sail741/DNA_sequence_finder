@@ -28,7 +28,7 @@ and then order the result to group the similar prefix.
 
 To run the application with default parameter, just run : 
 ```
-python dna_pattern_finder.py "filename_dna_sequence"
+python dna_pattern_finder.py filename_dna_sequence
 ```
 
 ### Specific usage
