@@ -33,6 +33,7 @@ For simple use, you can just run :
 python dna_pattern_finder.py filename_dna_sequence
 
 __author__ = "Léo Mullot"
+__date__ = "2018"
 """
 
 
